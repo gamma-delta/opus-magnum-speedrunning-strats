@@ -11,6 +11,17 @@ overlaps in a picture.
 
 [Link to the spreadsheet we're using until Speedrun.com whitelists us](https://docs.google.com/spreadsheets/d/1D2jXw3xBEZxbSTSKLaVGSZ1GQRYmxfx-MFSOmKqJRvU/edit#gid=0)
 
+Feel free to PR in new strategies!
+
+Considerations:
+- A strategy should be fast to place and also run fairly quickly.
+  The sum record for a level is probably the one you want to imitate.
+- You want to rotate pieces as few times as possible. Once you have a fast
+  strategy, try rotating it and counting how many times each part has to be
+  rotated to place it.
+- Solutions with lots of Reset and Repeat are good for timesaving when
+  doing the tape.
+
 [Introduction](#introduction):
 - [Stabilized Water](#stabilized-water)
 
@@ -140,6 +151,24 @@ overlaps in a picture.
 [Glitches](https://www.youtube.com/watch?v=T8Wdl-lKn5g)
 
 ## Chapter 1
+
+### Refined Gold
+
+Glitchless:
+
+![](images/chapter_1/refined_gold.png)
+
+### Face Powder
+
+Glitchless:
+
+![](images/chapter_1/face_powder.png)
+
+### Waterproof Sealant
+
+Glitchless:
+
+![](images/chapter_1/waterproof_sealant.png)
 
 ## Chapter 2
 
