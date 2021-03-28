@@ -170,6 +170,12 @@ Glitchless:
 
 ![](images/chapter_1/waterproof_sealant.png)
 
+### Airship Fuel
+
+Glitchless:
+
+![](images/chapter_1/airship_fuel.png)
+
 ## Chapter 2
 
 ## Chapter 3
